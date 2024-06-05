@@ -1,0 +1,9 @@
+[submodule "go-app"]
+	path = go-app
+	url = https://github.com/siddxharth/go-app
+[submodule "next-app"]
+	path = next-app
+	url = https://github.com/siddxharth/next-app
+[submodule "wordpress-app"]
+	path = wordpress-app
+	url = https://github.com/siddxharth/wordpress-app
